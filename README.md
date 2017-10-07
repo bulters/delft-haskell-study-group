@@ -1,14 +1,24 @@
 ![](images/haskell-logo.png)
+
+
+Table of Contents
+=================
+  * [Delft Haskell Study Group](#delft-haskell-study-group)
+  * [Expectations](#expectations)
+  * [Format](#format)
+  * [Signing up](#signing-up)
+  * [Slides and other resources](#slides-and-other-resources)
+  * [Schedule](#schedule)
+  * [Locations and times](#location-and-times)
+  * [Conduct of code](#conduct-of-code)
+
 # Delft Haskell Study Group
-
-## Guidelines
-
 We will work through [_Haskell Programming from First Principles_](http://haskellbook.com/) (aka the "Haskell Book") by Christopher Allen and Julie Moronuki. The only prerequisites for participating are this book, a computer, and your person. An open mind is also recommended. No prior experience with Haskell, functional programming, or coding in general is required.
 
 To prepare for your first visit, please do the following:
 
 - **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
-All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#haskell-study-group` channel.
+All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#delft-haskell-study` channel.
 
 - **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book (discount codes might be available: see below).**
 You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy. They typeset it with LaTeX: give them a break!
@@ -34,21 +44,7 @@ These expectations are not meant to make your life miserable but to provide a fr
 
 If you are a complete beginner to programming or for whatever reason have trouble installing Haskell on your computer, don't worry about it! Come to the study group, and we'll help you figure it out. Fortunately, you don't even need a computer to work through Chapter 1—just pen, paper, and patience. So make sure you at least do that much, even if you require tech support.
 
-**Discount codes** for the book are available if you genuinely need one. The authors do not want the price of the book to dissuade anyone from purchasing it, so please contact us if the cost is prohibitive, and you would like to request a discount. Please do not ask for a discount if you don't really need it. The number of codes I have is limited, and I want to reserve them for those who do.
-
-### Conduct of code
-
-By participating in this study group, you implicitly agree to conduct your coding as follows:
-
-You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be removed from the group immediately.
-
-Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you do not make a genuine effort to complete your work, for whatever reason, you will not be permitted to join the group discussion that week. Participants who fail to complete their assignments twice in a row or three times total, or who are otherwise not making a good faith effort to keep up with the course schedule, may be asked to leave the group. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
-
-You will make every effort to attend the weekly group meetings. Space is limited, so if you cannot commit to attending regularly, do not sign up. Participants who consistently miss meetings or RSVP without showing up will be removed from the group. If you cannot make it to a meeting, withdraw your RSVP as soon as possible.
-
-In addition to the above, all study group participants are expected to make their best effort at being decent human beings. Participants whose behavior strays too far or too often beyond the reasonable boundaries of respect, kindness, and collegiality may be removed from the group at the discretion of the organizer.
-
-The [Recurse Center](https://www.recurse.com) has a useful set of [social rules](https://www.recurse.com/manual#sub-sec-social-rules) that you should consider in effect for our meetings, too.
+**Discount codes** for the book are available if you genuinely need one. The authors do not want the price of the book to dissuade anyone from purchasing it, so please contact us if the cost is prohibitive, and you would like to request a discount. Please do not ask for a discount if you don't really need it.
 
 ### Format
 
@@ -116,7 +112,20 @@ See the [resources](resources) sub-directory in this repo for presentation slide
 - Read Chapter 19 on your own
 - General review and look ahead
 
-Meeting days, times, and locations may vary from week to week depending on the availability of space. If you can help with hosting future meetings, please contact us!
-
+### Location and times
+Meeting days, times, and locations may vary from week to week depending on the availability of space.
 For details of specific meetings, see the Meetup page.
 
+### Conduct of code
+
+By participating in this study group, you implicitly agree to conduct your coding as follows:
+
+You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be removed from the group immediately.
+
+Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you do not make a genuine effort to complete your work, for whatever reason, you will not be permitted to join the group discussion that week. Participants who fail to complete their assignments twice in a row or three times total, or who are otherwise not making a good faith effort to keep up with the course schedule, may be asked to leave the group. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
+
+You will make every effort to attend the weekly group meetings. Space is limited, so if you cannot commit to attending regularly, do not sign up. Participants who consistently miss meetings or RSVP without showing up will be removed from the group. If you cannot make it to a meeting, withdraw your RSVP as soon as possible.
+
+In addition to the above, all study group participants are expected to make their best effort at being decent human beings. Participants whose behavior strays too far or too often beyond the reasonable boundaries of respect, kindness, and collegiality may be removed from the group at the discretion of the organizer.
+
+The [Recurse Center](https://www.recurse.com) has a useful set of [social rules](https://www.recurse.com/manual#sub-sec-social-rules) that you should consider in effect for our meetings, too.
