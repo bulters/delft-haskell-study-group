@@ -63,6 +63,7 @@ All meetings will be announced on [Meetup](https://www.meetup.com/Delft-Haskell-
 See the [resources](resources) sub-directory in this repo for presentation slides, bonus exercises, and other materials used during study session meetings. If you have something pertinent to add, please submit a pull request.
 
 ### Schedule
+This is the schedule as planned. We might adjust the pace to keep things from becomming too challenging or easy.
 
 **Week 1. Introduction. Lambda calculus.**
 - Haskell Book, Chapter 1
