@@ -118,11 +118,11 @@ For details of specific meetings, see the Meetup page.
 
 ### Code of conduct
 
-By participating in this study group, you implicitly agree to conduct your coding as follows:
+By participating in this study group, you implicitly agree to the following:
 
-You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be removed from the group immediately.
+You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be asked to purchase the book or leave the group immediately.
 
-Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you do not make a genuine effort to complete your work, for whatever reason, you will not be permitted to join the group discussion that week. Participants who fail to complete their assignments twice in a row or three times total, or who are otherwise not making a good faith effort to keep up with the course schedule, may be asked to leave the group. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
+Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you do not make a genuine effort to complete your work, for whatever reason, you will not be permitted to join the group discussion that week. Participants who fail to complete the reading twice in a row or three times total, or who are otherwise not making a good faith effort to keep up with the course schedule, may be asked to leave the group. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
 
 You will make every effort to attend the weekly group meetings. Space is limited, so if you cannot commit to attending regularly, do not sign up. Participants who consistently miss meetings or RSVP without showing up will be removed from the group. If you cannot make it to a meeting, withdraw your RSVP as soon as possible.
 
