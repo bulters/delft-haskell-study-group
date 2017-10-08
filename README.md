@@ -18,7 +18,7 @@ We will work through [_Haskell Programming from First Principles_](http://haskel
 To prepare for your first visit, please do the following:
 
 - **Join the [FPChat](http://fpchat-invite.herokuapp.com/) Slack community.**
-All announcements pertaining to this study group will be sent out via Meetup and Slack. On the FPChat Slack, look for the `#delft-haskell-study` channel.
+All announcements pertaining to this study group will be sent out via [Meetup](https://www.meetup.com/Delft-Haskell-Study-Group/) and Slack. On the FPChat Slack, look for the `#delft-haskell-study` channel.
 
 - **[Purchase](https://gumroad.com/l/haskellbook) your own copy of the book (discount codes might be available: see below).**
 You will need your own copy on your own machine so you can work with the PDF and your terminal open side-by-side. This book was independently researched, written, and published by two Haskell developers working in their spare time to support education in functional programming. As a member of our strong and supportive community, we know you are too committed to the spirit of pure actions to "borrow" someone else's copy. They typeset it with LaTeX: give them a break!
@@ -56,7 +56,7 @@ You are encouraged to hew as closely to this regular, weekly schedule as you are
 
 ### Signing up
 
-All meetings will be announced on Meetup and Slack. You must RSVP to attend each meeting separately, as space is at a premium. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting. Do not RSVP if you cannot attend. No-shows will not be allowed to attend subsequent meetings.
+All meetings will be announced on [Meetup](https://www.meetup.com/Delft-Haskell-Study-Group/) and Slack. You must RSVP to attend each meeting separately, as space is at a premium. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting. Do not RSVP if you cannot attend. No-shows will not be allowed to attend subsequent meetings.
 
 ### Slides and other resources
 
@@ -114,13 +114,13 @@ See the [resources](resources) sub-directory in this repo for presentation slide
 
 ### Location and times
 Meeting days, times, and locations may vary from week to week depending on the availability of space.
-For details of specific meetings, see the Meetup page.
+For details of specific meetings, see the [Meetup](https://www.meetup.com/Delft-Haskell-Study-Group/) page.
 
 ### Code of conduct
 
 By participating in this study group, you implicitly agree to the following:
 
-You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be asked to purchase the book or leave the group immediately.
+You will purchase your own copy of the Haskell Book. Anyone suspected of using an illegal copy will be asked to purchase the book or leave the group.
 
 Each week, prior to the group meeting, you will complete the assigned reading and attempt to complete the coding exercises to the best of your ability. If you do not make a genuine effort to complete your work, for whatever reason, you will not be permitted to join the group discussion that week. Participants who fail to complete the reading twice in a row or three times total, or who are otherwise not making a good faith effort to keep up with the course schedule, may be asked to leave the group. If you find yourself struggling with the exercises, you should seek help at the meetings, from your study partner, or online.
 
