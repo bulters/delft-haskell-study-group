@@ -10,7 +10,7 @@ Table of Contents
   * [Slides and other resources](#slides-and-other-resources)
   * [Schedule](#schedule)
   * [Locations and times](#location-and-times)
-  * [Conduct of code](#conduct-of-code)
+  * [Code of conduct](#code-of-conduct)
 
 # Delft Haskell Study Group
 We will work through [_Haskell Programming from First Principles_](http://haskellbook.com/) (aka the "Haskell Book") by Christopher Allen and Julie Moronuki. The only prerequisites for participating are this book, a computer, and your person. An open mind is also recommended. No prior experience with Haskell, functional programming, or coding in general is required.
@@ -116,7 +116,7 @@ See the [resources](resources) sub-directory in this repo for presentation slide
 Meeting days, times, and locations may vary from week to week depending on the availability of space.
 For details of specific meetings, see the Meetup page.
 
-### Conduct of code
+### Code of conduct
 
 By participating in this study group, you implicitly agree to conduct your coding as follows:
 
