@@ -73,41 +73,45 @@ This is the schedule as planned. We might adjust the pace to keep things from be
 
 **Week 3. Basic datatypes.**
 - Review chapters 2 and 3
-- Chapters 4 and 5
+- Chapters 4
 
-**Week 4. Types and Typeclasses.**
+**Week 4. Types**
+- Review chapters 4
+- Chapter 5
+
+**Week 5. Typeclasses.**
 - Review chapters 4 and 5
 - Chapter 6
 
-**Week 5. Functional patterns. Working with recursion.**
+**Week 6. Functional patterns. Working with recursion.**
 - Review chapter 6
 - Chapters 7 and 8
 
-**Week 6. Lists and folding lists.**
+**Week 7. Lists and folding lists.**
 - Review chapters 7 and 8
 - Chapters 9 and 10
 
-**Week 7. Algebraic datatypes.**
+**Week 8. Algebraic datatypes.**
 - Review chapters 9 and 10
 - Chapters 11 and 12
 
-**Week 8. Midpoint review. Testing with QuickCheck.**
+**Week 9. Midpoint review. Testing with QuickCheck.**
 - Review chapters 2-12
 - Read and complete Chapter 13 on your own
 - Chapter 14
 
-**Week 9. Monoid and Semigroup.**
+**Week 10. Monoid and Semigroup.**
 - Chapter 15
 
-**Week 10. Functor.**
+**Week 11. Functor.**
 - Review Chapter 15
 - Chapter 16
 
-**Week 11. Applicative.**
+**Week 12. Applicative.**
 - Review chapter 16
 - Chapter 17
 
-**Week 12. Monad. How to apply structure to your code. Conclusion.**
+**Week 13. Monad. How to apply structure to your code. Conclusion.**
 - Review chapter 17
 - Chapter 18
 - Read Chapter 19 on your own
