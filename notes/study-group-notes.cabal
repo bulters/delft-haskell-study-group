@@ -22,5 +22,13 @@ library
                      , Chapter6.DoesItTypecheck
                      , Chapter6.MatchTheTypes
                      , Chapter6.TypeKwonDo
+                     , Chapter7.MultipleChoice
+                     , Chapter7.WriteSomeCode
+                     , Chapter8.ReviewOfTypes
+                     , Chapter8.ReviewOfCurrying
+                     , Chapter8.Recursion
+                     , Chapter8.FixDivideBy
+                     , Chapter8.McCarthy91
+                     , Chapter8.NumbersIntoWords
   build-depends:       base >= 4.7 && < 5
   default-language:    Haskell2010
