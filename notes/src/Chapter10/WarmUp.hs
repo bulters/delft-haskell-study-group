@@ -8,20 +8,20 @@ vowels = "aeiou"
 -- 3-tuples of all possible stop-vowel-stop combinations. These will 
 -- not all correspond to real words in English, although the 
 -- stop-vowel-stop pattern is common enough that many of them will.
-stopVowelStopCombinations :: [Char] -> [Char] -> (Char, Char, Char)
+stopVowelStopCombinations :: [Char] -> [Char] -> [(Char, Char, Char)]
 stopVowelStopCombinations = undefined
 
 -- 1b
 -- Modify that function so that it only returns the combinations 
 -- that begin with a p.
-stopVowelStopCombinations' :: [Char] -> [Char] -> (Char, Char, Char)
+stopVowelStopCombinations' :: [Char] -> [Char] -> [(Char, Char, Char)]
 stopVowelStopCombinations' = undefined
 
 -- 1c
 -- Now set up lists of nouns and verbs (instead of stops and vowels) 
 -- and modify the function to make tuples representing possible 
 -- noun-verb-noun sentences.
-nounVerbNoun :: [String] -> [String] -> (String, String, String)
+nounVerbNoun :: [String] -> [String] -> [(String, String, String)]
 nounVerbNoun = undefined
 
 -- 2

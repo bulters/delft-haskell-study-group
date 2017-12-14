@@ -11,7 +11,8 @@ cabal-version:       >=1.10
 
 library
   hs-source-dirs:      src
-  exposed-modules:     Chapter4.Exercises
+  exposed-modules:  
+                       Chapter4.Exercises
                      , Chapter4.CorrectingSyntax
                      , Chapter5.DetermineTheTypes
                      , Chapter5.DoesItCompile
@@ -35,5 +36,17 @@ library
                      , Chapter9.StandardFunctions
                      , Chapter10.WarmUp
                      , Chapter10.RewriteWithFold
+                     , Chapter11.Ciphers
+                     , Chapter11.AsPatterns
+                     , Chapter11.Language
+                     , Chapter11.Phone
+                     , Chapter11.HuttonsRazor
+                     , Chapter12.StringProcessing
+                     , Chapter12.ValidateTheWord
+                     , Chapter12.ItsOnlyNatural
+                     , Chapter12.SmallLibraryForMaybe
+                     , Chapter12.SmallLibraryForEither
+                     , Chapter12.Unfold
+                     , Chapter12.BinaryTree
   build-depends:       base >= 4.7 && < 5
   default-language:    Haskell2010
