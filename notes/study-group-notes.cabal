@@ -48,5 +48,25 @@ library
                      , Chapter12.SmallLibraryForEither
                      , Chapter12.Unfold
                      , Chapter12.BinaryTree
+                     , Chapter13.Ciphers
+                     , Chapter13.Palindrome
+                     , Chapter13.Person
+                     , Chapter14.WordNumber
   build-depends:       base >= 4.7 && < 5
+                     , hspec
   default-language:    Haskell2010
+
+test-suite tests
+  ghc-options: -Wall -fno-warn-orphans
+  type: exitcode-stdio-1.0
+  main-is: tests.hs
+  hs-source-dirs: tests
+  other-modules: Chapter14.QuickCheck
+               , Chapter14.WordNumberTest
+
+  build-depends: base
+               , study-group-notes
+               , containers
+               , hspec
+               , QuickCheck
+  default-language: Haskell2010
