@@ -52,8 +52,14 @@ library
                      , Chapter13.Palindrome
                      , Chapter13.Person
                      , Chapter14.WordNumber
+                     , Chapter15.Semigroup
+                     , Chapter15.Monoid
+                     , Chapter16.CanItBeFunctor
+                     , Chapter16.RearrangeTheArguments
+                     , Chapter16.Instances
   build-depends:       base >= 4.7 && < 5
                      , hspec
+                     , QuickCheck
   default-language:    Haskell2010
 
 test-suite tests
