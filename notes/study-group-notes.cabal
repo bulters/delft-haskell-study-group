@@ -11,7 +11,7 @@ cabal-version:       >=1.10
 
 library
   hs-source-dirs:      src
-  exposed-modules:  
+  exposed-modules:
                        Chapter4.Exercises
                      , Chapter4.CorrectingSyntax
                      , Chapter5.DetermineTheTypes
@@ -57,9 +57,13 @@ library
                      , Chapter16.CanItBeFunctor
                      , Chapter16.RearrangeTheArguments
                      , Chapter16.Instances
+                     , Chapter17.SpecializeTheTypes
+                     , Chapter17.Instances
+                     , Chapter17.Combinations
   build-depends:       base >= 4.7 && < 5
                      , hspec
                      , QuickCheck
+                     , checkers
   default-language:    Haskell2010
 
 test-suite tests
