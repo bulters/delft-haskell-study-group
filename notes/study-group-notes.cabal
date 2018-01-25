@@ -60,6 +60,8 @@ library
                      , Chapter17.SpecializeTheTypes
                      , Chapter17.Instances
                      , Chapter17.Combinations
+                     , Chapter18.Instances
+                     , Chapter18.Functions
   build-depends:       base >= 4.7 && < 5
                      , hspec
                      , QuickCheck
