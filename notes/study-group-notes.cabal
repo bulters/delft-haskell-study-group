@@ -62,6 +62,10 @@ library
                      , Chapter17.Combinations
                      , Chapter18.Instances
                      , Chapter18.Functions
+                     , Chapter20.Library
+                     , Chapter20.Instances
+                     , Chapter21.Instances
+                     , Chapter21.Tree
   build-depends:       base >= 4.7 && < 5
                      , hspec
                      , QuickCheck
