@@ -66,10 +66,21 @@ library
                      , Chapter20.Instances
                      , Chapter21.Instances
                      , Chapter21.Tree
+                     , Chapter22.WarmUp
+                     , Chapter22.Shawty
   build-depends:       base >= 4.7 && < 5
                      , hspec
                      , QuickCheck
                      , checkers
+                     , bytestring
+                     , hedis
+                     , mtl
+                     , network-uri
+                     , random
+                     , scotty
+                     , semigroups
+                     , text
+                     , transformers
   default-language:    Haskell2010
 
 test-suite tests
